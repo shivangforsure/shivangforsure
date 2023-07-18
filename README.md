@@ -17,27 +17,22 @@
 
 ## Coding Journey
 
-- Freshman at Bennett University
-- Excited about DSA and Web Development
-- #30daysofcode #100daysofcode
-
-## Projects
-
-- Check out some of my projects on GitHub!
+- #30daysofcode
+- #100daysofcode
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your_linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1ca0f1?style=flat-square&logo=twitter)](https://twitter.com/your_twitter_handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivang-goyal-08b660254/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1ca0f1?style=flat-square&logo=twitter)](https://twitter.com/shivangforsure)
 
 ## Goals
 
-- Master DSA for efficient problem-solving
+- To learn DSA for efficient problem-solving
 - Become a skilled web developer
 - Contribute to open-source projects
 
 ## GitHub Stats
 
-[![Shivang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanggoyal2000&show_icons=true&hide=prs,issues&count_private=true&theme=radical)](https://github.com/shivanggoyal2000)
+[![Shivang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangforsure&show_icons=true&hide=prs,issues&count_private=true&theme=radical)](https://github.com/shivangforsure)
 
 Thanks for visiting! Let's learn and grow together! 😊
