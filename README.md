@@ -11,7 +11,7 @@
 - Data Structures and Algorithms (DSA)
 - Web Development
 
-## Work and Education
+## Education
 
 - Studying at Bennett University
 
