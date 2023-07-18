@@ -20,6 +20,16 @@
 - #30daysofcode
 - #100daysofcode
 
+## Projects
+
+### Small Projects
+
+- **Amazon.com HTML CSS Clone:**
+  Replicated the front-end design of the Amazon.com website using HTML and CSS. Check it out [here](https://github.com/shivangforsure/amazon-html-css-clone) and [live demo](https://shivangforsure.github.io/amazon-html-css-clone/).
+  
+- **Spotify HTML CSS Clone:**
+  Recreated the user interface of the Spotify web application using HTML and CSS. Check it out [here](https://github.com/shivangforsure/html-css-spotify-clone) and [live demo](https://shivangforsure.github.io/html-css-spotify-clone/).
+  
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivang-goyal-08b660254/)
