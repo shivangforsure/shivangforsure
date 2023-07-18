@@ -1,4 +1,4 @@
-# Hi, I'm Shivang Goyal! 👋
+# Hi! 👋
 
 ## About Me
 
