@@ -4,7 +4,7 @@
 
 - Student @ Bennett University
 - DSA Enthusiast | Aspiring Web Developer
-- #100DaysofCode
+- #100DaysofCode | #30DaysofCode
 
 ## Currently Learning
 
