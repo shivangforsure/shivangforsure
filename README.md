@@ -34,6 +34,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivang-goyal-08b660254/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1ca0f1?style=flat-square&logo=twitter)](https://twitter.com/shivangforsure)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:shivanggoyal0204@gmail.com)
 
 ## Goals
 
