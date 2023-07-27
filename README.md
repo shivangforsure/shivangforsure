@@ -12,7 +12,7 @@
 
 ## Education
 
-- Studying at Bennett University
+- Bachelor of Technology (Computer Science and Engineering)
 
 ## Coding Journey
 
