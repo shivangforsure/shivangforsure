@@ -1,55 +1,45 @@
-# Hi! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi👋&height=100&section=header"/>
+</p>
 
-## About Me 🚀
+<h1 align="center">I'm Shivang Goyal.</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Aspiring+Web+Developer;%20Open+Source+Contributor;%20Learning+New+Tech+Stacks&center=true&width=580&height=45"></a>
+</p>
 
-- 📚 Student @ Bennett University
-- 💡 DSA Enthusiast | Aspiring Web Developer
-  
-## Currently Learning 🌱
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shivangforsure&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangforsure&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📊 Data Structures and Algorithms (DSA)
-- 💻 Web Development
+<h1 align="left"> 💫 About Me:</h1>
+🔭 I’m currently learning Data Structures and Algorithms (DSA) and Web Development.<br><br>
+👯 I’m looking to collaborate on open-source web development projects.<br><br>
+🌱 I’m studying Bachelor of Technology in Computer Science and Engineering.<br><br>
+💬 Ask me about coding, web development, or anything related to tech!<br><br>
+👇👇 Let's connect and learn together.<br>
 
-## Education 🎓
-
-- 🎓 Bachelor of Technology (Computer Science and Engineering)
-
-## Coding Journey 🚀
-
-- 📅 #30daysofcode
-- 📅 #100daysofcode
-
-## Projects 🛠️
-
-### Small Projects 🚧
-
-- **Amazon.com HTML CSS Clone:**
-  Replicated the front-end design of the Amazon.com website using HTML and CSS. Check it out [here](https://github.com/shivangforsure/amazon-html-css-clone) and [live demo](https://shivangforsure.github.io/amazon-html-css-clone/).
-  
-- **Spotify HTML CSS Clone:**
-  Recreated the user interface of the Spotify web application using HTML and CSS. Check it out [here](https://github.com/shivangforsure/html-css-spotify-clone) and [live demo](https://shivangforsure.github.io/html-css-spotify-clone/).
-
-- **Shopping Website HTML CSS Clone:**
-  Replicated the front-end design of a shopping website using HTML and CSS. Check it out [here](https://github.com/shivangforsure/cloth-shopping) and [live demo](https://blitzclone.vercel.app/).
-
-## Languages Used 🚀
-
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangforsure&layout=compact&theme=radical)](https://github.com/shivangforsure)
-
-## Connect with Me 🌐
-
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivang-goyal-08b660254/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1ca0f1?style=flat-square&logo=twitter)](https://twitter.com/shivangforsure)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:shivanggoyal0204@gmail.com)
 
-## Goals 🎯
+# 💻 Tech Stack:
 
-- 🧠 To learn DSA for efficient problem-solving
-- 👨‍💻 Become a skilled web developer
-- 🌟 Contribute to open-source projects
+<img src="https://img.shields.io/badge/-Python-green?logo=python&style=for-the-badge&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-Java-orange?logo=java&style=for-the-badge&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-C++-orange?logo=cplusplus&style=for-the-badge&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-JavaScript-orange?logo=javascript&style=for-the-badge&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-HTML-green?logo=html5&style=for-the-badge&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-CSS-green?logo=css3&style=for-the-badge&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-Node.js-orange?logo=node.js&style=for-the-badge&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-Express.js-orange?logo=express&style=for-the-badge&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-MongoDB-orange?logo=mongodb&style=for-the-badge&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&style=for-the-badge&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-Postman-green?logo=postman&style=for-the-badge&logoColor=white" height="30">
 
-## GitHub Stats 📊
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
-[![Shivang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangforsure&show_icons=true&hide=prs,issues&count_private=true&theme=radical)](https://github.com/shivangforsure)
-
-Thanks for visiting! Let's learn and grow together! 😊✨🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
