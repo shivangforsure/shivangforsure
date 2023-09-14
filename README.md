@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi👋&height=100&section=header"/>
-</p>
-
-<h1 align="center">I'm Shivang Goyal.</h1>
+<h1 align="center">Hi👋, I'm Shivang Goyal.</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Aspiring+Web+Developer;%20Open+Source+Contributor;%20Learning+New+Tech+Stacks&center=true&width=580&height=45"></a>
 </p>
@@ -38,8 +34,6 @@
 <img src="https://img.shields.io/badge/-Postman-green?logo=postman&style=for-the-badge&logoColor=white" height="30">
 
   
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
