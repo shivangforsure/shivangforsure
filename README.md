@@ -21,19 +21,24 @@
 
 # 💻 Tech Stack:
 
-<img src="https://img.shields.io/badge/-Python-green?logo=python&style=for-the-badge&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-Java-orange?logo=java&style=for-the-badge&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-C++-orange?logo=cplusplus&style=for-the-badge&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-JavaScript-orange?logo=javascript&style=for-the-badge&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-HTML-green?logo=html5&style=for-the-badge&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-CSS-green?logo=css3&style=for-the-badge&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-Node.js-orange?logo=node.js&style=for-the-badge&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-Express.js-orange?logo=express&style=for-the-badge&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-MongoDB-orange?logo=mongodb&style=for-the-badge&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&style=for-the-badge&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-Postman-green?logo=postman&style=for-the-badge&logoColor=white" height="30">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="52" alt="markdown logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+</div>
+
 
   
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
