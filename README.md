@@ -3,10 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Aspiring+Web+Developer;%20Open+Source+Contributor;%20Learning+New+Tech+Stacks&center=true&width=580&height=45"></a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivangforsure&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangforsure&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <h1 align="left"> 💫 About Me:</h1>
 🔭 I’m currently learning Data Structures and Algorithms (DSA) and Web Development.<br><br>
 👯 I’m looking to collaborate on open-source web development projects.<br><br>
@@ -38,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
-
-  
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shivangforsure&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangforsure&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
