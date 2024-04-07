@@ -11,9 +11,20 @@
 👇👇 Let's connect and learn together.<br>
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivang-goyal-08b660254/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1ca0f1?style=flat-square&logo=twitter)](https://twitter.com/shivangforsure)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:shivanggoyal0204@gmail.com)
+<div align="left">
+  <a href="https://www.linkedin.com/in/shivang-goyal-08b660254/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/shivangforsure" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:shivanggoyal0204@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="gmail logo" style="margin-right:5px" />
+  </a>
+    <a href="https://www.instagram.com/_shivang_goyal/?hl=en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 # 💻 Tech Stack:
 
